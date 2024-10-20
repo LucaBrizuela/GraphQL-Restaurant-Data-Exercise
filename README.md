@@ -17,7 +17,8 @@ This project showcases how GraphQL can simplify building and maintaining APIs by
 ## Usage
 1. Open your browser and go to `http://localhost:5500/graphql` to access the GraphiQL interface.
 2. Use GraphQL queries to fetch restaurant data or individual restaurant information by ID.
-   - Example query:
+
+- Example query:
    ```graphql
    {
      restaurants {
@@ -30,7 +31,9 @@ This project showcases how GraphQL can simplify building and maintaining APIs by
        }
      }
    }
+   
 3. Use GraphQL mutations to add, edit, or delete restaurant data.
+
 - Example mutation to add a restaurant:
      ```graphql
    mutation {
@@ -38,10 +41,8 @@ This project showcases how GraphQL can simplify building and maintaining APIs by
     name
     description
   }
-}
+  }
 
-
-## Roadmap
 ## Roadmap
 ### Version 2.0:
 - Add user authentication to manage restaurant data access.

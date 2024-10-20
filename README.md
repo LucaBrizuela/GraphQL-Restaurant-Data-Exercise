@@ -59,4 +59,4 @@ This project showcases how GraphQL can simplify building and maintaining APIs by
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/LucaBrizuela/GraphQL-Restaurant-Data-Exercise/blob/main/LICENSE) file for details.
 
 ## Results
-![Showcase](Showcase.png)
+![Example](Example.png)
